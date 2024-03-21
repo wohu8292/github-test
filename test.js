@@ -1,2 +1,1 @@
-let test = "hello";
-let makenew = 123
+let test = "hello!@";
